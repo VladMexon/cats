@@ -8,4 +8,4 @@ def findImages(what):
     for image in items:
         print(f"alt:{image['alt']} || url:{image['src']}")
  
-findImages("dog")
+findImages("cat")
